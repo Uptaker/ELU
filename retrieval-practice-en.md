@@ -23,10 +23,8 @@ learning of science materials
 - Practicing retrieval produces greater gains than elaborative studying with concept mapping
 - Because each act of retrieval changes memory, the act of reconstructing knowledge must be considered essential to the process of learning.
 - Retrieval practice is an effective tool to promote conceptual learning about science
-- Whether a task is considered “active” is not diagnostic of how much learning the task will produce
-- During retrieval, subjects use retrieval cues to reconstruct what happened in a particular place at a particular time.
-- Retrieval practice may improve cue diagnosticity by restricting the set of candidates specified by a cue to be included in the search set
 - Retrieval is not merely a readout of the knowledge stored in one’s mind; the act of reconstructing knowledge itself enhances learning.
+- Whether a task is considered `active` is not diagnostic of how much learning the task will produce
 
 ## Experiements
 
@@ -54,15 +52,15 @@ The students then returned to the laboratory 1 week later for a final short-answ
 ### Experiment 2
 
 #### Procedure
-We carried out a second experiment to replicate the results of our first experiment and extend them in three ways:
-- Generalize our results to texts that represent different knowledge structures commonly found in science education (because under some circumstances the effectiveness of different learning activities can depend on
+The second experiment meant to replicate the results of the first experiment and extend them in three ways:
+- Generalize results to texts that represent different knowledge structures commonly found in science education. (because under some circumstances the effectiveness of different learning activities can depend on
   the structure of the materials that students are learning)
-- We examined the relative effectiveness of retrieval practice and elaborative concept mapping for each individual learner (to determine the robustness of our retrieval practice effects)
-- Assessed long-term learning with two different final test formats (short-answer test and concept-map test)
+- Examine the relative effectiveness of retrieval practice and elaborative concept mapping for each individual learner (to determine the robustness of our retrieval practice effects)
+- Assess long-term learning with two different final test formats (short-answer test and concept-map test)
 
 #### Result
-- Initial level of performance favored the concept mapping condition (concept-map test)
-- Retrieval practice produced better performance than elaborative concept mapping for both types of science text (short-answer test)
+- Initial level of performance favored the concept mapping condition `concept-map test`
+- Retrieval practice produced better performance than elaborative concept mapping for both types of science text `short-answer test`
 - Across the two text formats, the advantage of retrieval practice was again large
 - Practicing retrieval during original learning produced better performance than engaging in elaborative study by creating concept maps during original learning
 - Most students did not expect that retrieval practice would be more effective than elaborative concept mapping, but in fact it was.
