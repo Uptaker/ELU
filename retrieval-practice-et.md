@@ -13,10 +13,10 @@ Kahes katses võrreldi vaba meenutamist ja laiendatud/põhjaliku õppimise tõhu
 ## Mõisted
 
 **Vaba meenutamine** on tegevus, mille käigus püütakse infot meelde tuletada, ilma et see oleks teie ees.
-- **Example:** Kui õpilased loovad mõistekaarte materjalide puudumisel, siis tegevus hõlmab teadmiste vaba meenutamist.
+- **Näide:** Kui õpilased loovad mõistekaarte materjalide puudumisel, siis tegevus hõlmab teadmiste vaba meenutamist.
 
 **Laiendatud/põhjalik õppimine** on edasiminek lihtsast õppimisest keerukama poole
-- **Example:** Kui õpilased loovad mõistekaarte koos materjalidega
+- **Näide:** Kui õpilased loovad mõistekaarte koos materjalidega
 
 **Mõistete kaardistamine** näitab mõistete ja ideede vahelisi suhteid
 
