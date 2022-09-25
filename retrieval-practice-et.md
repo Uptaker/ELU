@@ -53,7 +53,7 @@ Seejärel naasid õpilased nädal hiljem testi tegema (lühivastustega)
 #### Tegevus
 
 Teise katse eesmärk oli korrata esimese katse tulemusi ja laiendada neid kolmel viisil:
-- Üldistada tulemused tekstidele, mis esindavad erinevaid teadushariduses levinud teadmusstruktuure. (kuna teatud asjaoludel võib erinevate õppetegevuste tõhusus sõltuda
+- Üldistada tulemused tekstidele, mis esindavad erinevaid hariduses levinud teksti struktuure. (kuna teatud asjaoludel võib erinevate õppetegevuste tõhusus sõltuda
 materjalide struktuurist, mida õpilased õpivad)
 - Uurida Vaba meenutamise tõhusust ja mõistete kaardistamist iga õppija jaoks (et teha kindlaks vaba meenutamise mõju tugevust)
 - Hinnata pikaajalist õppimist kahe erineva lõputesti vorminguga (lühivastuste test ja mõistekaardi test)
