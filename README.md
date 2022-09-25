@@ -1,3 +1,3 @@
 ### ELU - Uuriv õppija
 
-[Retrieval practice](retrieval-practice.md)
+Retrieval practice ([ENG](retrieval-practice-en.md) / [EST](retrieval-practice-et.md))
